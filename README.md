@@ -1,2 +1,2 @@
 # SMART WATER FOUNTAIN
-Projectsubmission
+Project submission
